@@ -1,0 +1,12 @@
+git status --> verificar o repositório
+
+git add . --> serve para adicionar todos os ficheiros
+
+
+git commit -m " MENSAGEM DO commit "  --> serve para identificar o registo da versão
+
+
+git push origin (BRANCH caso seja outra)  --> empurrar/enviar para o repositorio/nuvem/servidor
+
+
+git remote add origin (nome a chamar ao repositorio) URL_do_REPOSITORIO (GITHUB...)  --> quando cria projeto para colocar o destino do repositorio
