@@ -10,3 +10,5 @@ git push origin (BRANCH caso seja outra)  --> empurrar/enviar para o repositorio
 
 
 git remote add origin (nome a chamar ao repositorio) URL_do_REPOSITORIO (GITHUB...)  --> quando cria projeto para colocar o destino do repositorio
+
+git log --> histórico de commits
